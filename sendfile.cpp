@@ -111,7 +111,7 @@ int main() {
 		strcat(requestmessage, "Name: yoonjeong kim\r\n");
 		strcat(requestmessage, "Connection: close\r\n\r\n");
 
-		///////////////////////////////
+		//////https://github.com/wwjdtm/Network/blob/master/2017%EA%B9%80%EC%9C%A4%EC%A0%95.cpp/////////////////////////
 
 		// filename = "/web/member/palladio.JPG";
 		// int len = strlen(filename);
